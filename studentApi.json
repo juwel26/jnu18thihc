@@ -1,0 +1,21 @@
+{
+    "students":[{
+    "id": "B220104032",
+    "name":"Juwel Rana",
+    "session":"2022 - 2023",
+    "Dept":"Islamic History and Culture",
+    "facebook":"https://www.facebook.com/juwel34/",
+    "number": "01518303352" ,
+    "email" : "juwelrana3426@gmail.com"
+    },
+    {
+    "id": "B220104012",
+    "name":"Rakibul Hasan",
+    "session":"2022 - 2023",
+    "Dept":"Islamic History and Culture",
+    "facebook":"https://www.facebook.com/rakibul.hasan.51",
+    "number": "01949210318",
+    "email" : "rakibrifat63@gmail.com"
+    }
+    ]
+    }
