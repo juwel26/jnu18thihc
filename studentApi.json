@@ -1,7 +1,7 @@
 {
     "students":[
 
-   { "student1":[ 
+   
     {
     "id": "B220104032",
     "name":"Juwel Rana",
@@ -10,10 +10,9 @@
     "facebook":"https://www.facebook.com/juwel34/",
     "number": "01518303352" ,
     "email" : "juwelrana3426@gmail.com"
-    }]},
+    },
 
-    { "student2":[
-        { 
+     { 
     "id": "B220104012",
     "name":"Rakibul Hasan",
     "session":"2022 - 2023",
@@ -21,7 +20,6 @@
     "facebook":"https://www.facebook.com/rakibul.hasan.51",
     "number": "01949210318",
     "email" : "rakibrifat63@gmail.com"
-    }]}
+    }]
 
-    ]
     }
