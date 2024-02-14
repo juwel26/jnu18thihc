@@ -11,7 +11,6 @@
     "number": "01518303352" ,
     "email" : "juwelrana3426@gmail.com"
     },
-
      { 
     "id": "B220104012",
     "img": "https://jnuihcdept18th.netlify.app/img/rakib.jpg",
@@ -21,6 +20,28 @@
     "facebook":"https://www.facebook.com/rakibul.hasan.51",
     "number": "01949210318",
     "email" : "rakibrifat63@gmail.com"
-    }]
+    },
+     { 
+    "id": "B220104012",
+    "img": "https://jnuihcdept18th.netlify.app/img/rakib.jpg",
+    "name":"Rakibul Hasan",
+    "session":"2022 - 2023",
+    "Batch":"18th",
+    "facebook":"https://www.facebook.com/rakibul.hasan.51",
+    "number": "01949210318",
+    "email" : "rakibrifat63@gmail.com"
+    },
+     { 
+    "id": "B220104012",
+    "img": "https://jnuihcdept18th.netlify.app/img/rakib.jpg",
+    "name":"Rakibul Hasan",
+    "session":"2022 - 2023",
+    "Batch":"18th",
+    "facebook":"https://www.facebook.com/rakibul.hasan.51",
+    "number": "01949210318",
+    "email" : "rakibrifat63@gmail.com"
+    }
+
+    ]
 
     }
