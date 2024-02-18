@@ -40,6 +40,66 @@
     "facebook":"#",
     "number": "01787924357",
     "email" : "not available"
+    },
+     { 
+    "id": " ",
+    "img": "https://jnuihcdept18th.netlify.app/img/nayem.jpg",
+    "name":"Mahadi Hasan Nayem ",
+    "session":"2022 - 2023",
+    "Batch":"18th",
+    "facebook":"https://www.facebook.com/profile.php?id=100061009333918",
+    "number": "01879975410",
+    "email" : "not available"
+    },
+     { 
+    "id": " ",
+    "img": "https://jnuihcdept18th.netlify.app/img/jakir.jpg",
+    "name":"Jakir Hossain ",
+    "session":"2022 - 2023",
+    "Batch":"18th",
+    "facebook":"https://www.facebook.com/profile.php?id=100077713316568",
+    "number": "01765724729",
+    "email" : "not available"
+    },
+     { 
+    "id": " ",
+    "img": "https://jnuihcdept18th.netlify.app/img/Happy.jpg",
+    "name":"Happy  ",
+    "session":"2022 - 2023",
+    "Batch":"18th",
+    "facebook":"https://www.facebook.com/profile.php?id=100022287095124",
+    "number": "not available ",
+    "email" : "not available"
+    },
+     { 
+    "id": " ",
+    "img": "https://jnuihcdept18th.netlify.app/img/bushra.jpg",
+    "name":"Bushra Momtaj Maria",
+    "session":"2022 - 2023",
+    "Batch":"18th",
+    "facebook":"https://www.facebook.com/nilufa.yasmin.14661",
+    "number": "01723390736",
+    "email" : "not available"
+    },
+     { 
+    "id": " ",
+    "img": "https://jnuihcdept18th.netlify.app/img/siam.jpg",
+    "name":"Saim Siddiki",
+    "session":"2022 - 2023",
+    "Batch":"18th",
+    "facebook":"https://www.facebook.com/saim.siddiki.7",
+    "number": "01909005661",
+    "email" : "not available"
+    },
+     { 
+    "id": " ",
+    "img": "https://jnuihcdept18th.netlify.app/img/arnaf.jpg",
+    "name":"Arnaf Shahariar",
+    "session":"2022 - 2023",
+    "Batch":"18th",
+    "facebook":"https://www.facebook.com/arnaf.shahariar",
+    "number": "01880252102",
+    "email" : "not available"
     }
 
     ]
