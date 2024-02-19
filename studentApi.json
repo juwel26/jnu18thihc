@@ -49,7 +49,7 @@
     "Batch":"18th",
     "facebook":"https://www.facebook.com/profile.php?id=100061009333918",
     "number": "01879975410",
-    "email" : "not available"
+    "email" : "mahadihasannayem9@gmail.com"
     },
      { 
     "id": " ",
@@ -99,6 +99,26 @@
     "Batch":"18th",
     "facebook":"https://www.facebook.com/arnaf.shahariar",
     "number": "01880252102",
+    "email" : "not available"
+    },
+     { 
+    "id": "B220104030",
+    "img": "https://jnuihcdept18th.netlify.app/img/shafin.jpg",
+    "name":"Md. Fahim Ferdous Shafin",
+    "session":"2022 - 2023",
+    "Batch":"18th",
+    "facebook":"https://www.facebook.com/fahim.shafin.9",
+    "number": "not available",
+    "email" : "not available"
+    },
+     { 
+    "id": "B220104078",
+    "img": "https://jnuihcdept18th.netlify.app/img/tawfiq.jpg",
+    "name":"Towfik Anam",
+    "session":"2022 - 2023",
+    "Batch":"18th",
+    "facebook":"https://www.facebook.com/towfik.anam",
+    "number": "01733206774",
     "email" : "not available"
     }
 
