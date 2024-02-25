@@ -3,7 +3,7 @@
 
     {
     "id": "B220104032",
-    "img": "./student image/juwel.JPG",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/juwel.jpg",
     "name":"Juwel Rana",
     "session":"2022-2023",
     "Batch":"18th",
@@ -13,7 +13,7 @@
     },
      { 
     "id": "B220104012",
-    "img": "https://jnuihcdept18th.netlify.app/img/rakib.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/rakib.jpg",
     "name":"Rakibul Hasan",
     "session":"2022 - 2023",
     "Batch":"18th",
@@ -23,7 +23,7 @@
     },
      { 
     "id": "B220104024",
-    "img": "https://jnuihcdept18th.netlify.app/img/Raju.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/Raju.jpg",
     "name":"Raju Islam",
     "session":"2022 - 2023",
     "Batch":"18th",
@@ -43,7 +43,7 @@
     },
      { 
     "id": " ",
-    "img": "https://jnuihcdept18th.netlify.app/img/nayem.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/nayem.jpg",
     "name":"Mahadi Hasan Nayem ",
     "session":"2022 - 2023",
     "Batch":"18th",
@@ -53,7 +53,7 @@
     },
      { 
     "id": " ",
-    "img": "https://jnuihcdept18th.netlify.app/img/jakir.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/jakir.jpg",
     "name":"Jakir Hossain ",
     "session":"2022 - 2023",
     "Batch":"18th",
@@ -63,7 +63,7 @@
     },
      { 
     "id": " ",
-    "img": "https://jnuihcdept18th.netlify.app/img/Happy.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image//Happy.jpg",
     "name":"Happy  ",
     "session":"2022 - 2023",
     "Batch":"18th",
@@ -73,7 +73,7 @@
     },
      { 
     "id": " ",
-    "img": "https://jnuihcdept18th.netlify.app/img/bushra.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/bushra.jpg",
     "name":"Bushra Momtaj Maria",
     "session":"2022 - 2023",
     "Batch":"18th",
@@ -83,7 +83,7 @@
     },
      { 
     "id": " ",
-    "img": "https://jnuihcdept18th.netlify.app/img/siam.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/siam.jpg",
     "name":"Saim Siddiki",
     "session":"2022 - 2023",
     "Batch":"18th",
@@ -93,7 +93,7 @@
     },
      { 
     "id": " ",
-    "img": "https://jnuihcdept18th.netlify.app/img/arnaf.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/arnaf.jpg",
     "name":"Arnaf Shahariar",
     "session":"2022 - 2023",
     "Batch":"18th",
@@ -103,7 +103,7 @@
     },
      { 
     "id": "B220104030",
-    "img": "https://jnuihcdept18th.netlify.app/img/shafin.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/shafin.jpg",
     "name":"Md. Fahim Ferdous Shafin",
     "session":"2022 - 2023",
     "Batch":"18th",
@@ -113,7 +113,7 @@
     },
      { 
     "id": "B220104078",
-    "img": "https://jnuihcdept18th.netlify.app/img/tawfiq.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/tawfiq.jpg",
     "name":"Towfik Anam",
     "session":"2022 - 2023",
     "Batch":"18th",
