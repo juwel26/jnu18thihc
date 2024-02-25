@@ -3,7 +3,7 @@
 
     {
     "id": "B220104032",
-    "img": "https://jnuihcdept18th.netlify.app/img/juwel.jpg",
+    "img": "./student image/juwel.JPG",
     "name":"Juwel Rana",
     "session":"2022-2023",
     "Batch":"18th",
@@ -33,7 +33,7 @@
     },
      { 
     "id": "B220104042",
-    "img": "https://jnuihcdept18th.netlify.app/img/atik.jpg",
+    "img": "https://ihcstudentimgip.netlify.app/student%20image/atik.jpg",
     "name":"Atikur Rahman",
     "session":"2022 - 2023",
     "Batch":"18th",
