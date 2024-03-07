@@ -2,7 +2,7 @@
     "students":[
 
     {
-    "id": "B220104032",
+    "id": "",
     "img": "https://ihcstudentimgip.netlify.app/student%20image/juwel.jpg",
     "name":"Juwel Rana",
     "session":"2022-2023",
@@ -12,7 +12,7 @@
     "email" : "juwelrana3426@gmail.com"
     },
      { 
-    "id": "B220104012",
+    "id": "",
     "img": "https://ihcstudentimgip.netlify.app/student%20image/rakib.jpg",
     "name":"Rakibul Hasan",
     "session":"2022 - 2023",
@@ -22,7 +22,7 @@
     "email" : "rakibrifat63@gmail.com"
     },
      { 
-    "id": "B220104024",
+    "id": "",
     "img": "https://ihcstudentimgip.netlify.app/student%20image/Raju.jpg",
     "name":"Raju Islam",
     "session":"2022 - 2023",
@@ -32,7 +32,7 @@
     "email" : "not available"
     },
      { 
-    "id": "B220104042",
+    "id": "",
     "img": "https://ihcstudentimgip.netlify.app/student%20image/atik.jpg",
     "name":"Atikur Rahman",
     "session":"2022 - 2023",
@@ -102,17 +102,17 @@
     "email" : "not available"
     },
      { 
-    "id": "B220104030",
+    "id": "",
     "img": "https://ihcstudentimgip.netlify.app/student%20image/shafin.jpg",
     "name":"Md. Fahim Ferdous Shafin",
     "session":"2022 - 2023",
     "Batch":"18th",
     "facebook":"https://www.facebook.com/fahim.shafin.9",
-    "number": "not available",
-    "email" : "not available"
+    "number": "01575-212875",
+    "email" : "fahimshafin742@gmail.com"
     },
      { 
-    "id": "B220104078",
+    "id": "",
     "img": "https://ihcstudentimgip.netlify.app/student%20image/tawfiq.jpg",
     "name":"Towfik Anam",
     "session":"2022 - 2023",
@@ -128,7 +128,7 @@
     "session":"2022 - 2023",
     "Batch":"18th",
     "facebook":"https://www.facebook.com/zarinsubha.saba?mibextid=ZbWKwL",
-    "number": "",
+    "number": "not available",
     "email" : "Ztasnim719@gmail.com"
     },
      { 
@@ -208,8 +208,8 @@
     "session":"2022 - 2023",
     "Batch":"18th",
     "facebook":"https://www.facebook.com/profile.php?id=100048055011010",
-    "number": "not available ",
-    "email" : "not available"
+    "number": "01860-072957 ",
+    "email" : "billalhossain8072@gmail.com"
     }
 
     ]
