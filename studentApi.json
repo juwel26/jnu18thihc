@@ -1,268 +1,268 @@
 {
-    "students":[
-
+  "students": [
     {
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/juwel.jpg",
-    "name":"Juwel Rana",
-    "session":"2022-2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/juwel34/",
-    "number": "01518-303352" ,
-    "email" : "juwelrana3426@gmail.com"
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/juwel.jpg",
+      "name": "Juwel Rana",
+      "session": "2022-2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/juwel34/",
+      "number": "01518-303352",
+      "email": "juwelrana3426@gmail.com"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/rakib.jpg",
-    "name":"Rakibul Hasan",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/rakibul.hasan.51",
-    "number": "01949-210318",
-    "email" : "rakibrifat63@gmail.com"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/rakib.jpg",
+      "name": "Rakibul Hasan",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/rakibul.hasan.51",
+      "number": "01949-210318",
+      "email": "rakibrifat63@gmail.com"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/Raju.jpg",
-    "name":"Raju Islam",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/profile.php?id=100029956242064",
-    "number": "01773-684846",
-    "email" : "not available"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/Raju.jpg",
+      "name": "Raju Islam",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/profile.php?id=100029956242064",
+      "number": "01773-684846",
+      "email": "not available"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/atik.jpg",
-    "name":"Atikur Rahman",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"#",
-    "number": "01787-924357",
-    "email" : "not available"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/atik.jpg",
+      "name": "Atikur Rahman",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "#",
+      "number": "01787-924357",
+      "email": "not available"
     },
-     { 
-    "id": " ",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/nayem.jpg",
-    "name":"Mahadi Hasan Nayem ",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/profile.php?id=100061009333918",
-    "number": "01879-975410",
-    "email" : "mahadihasannayem9@gmail.com"
+    {
+      "id": " ",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/nayem.jpg",
+      "name": "Mahadi Hasan Nayem ",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/profile.php?id=100061009333918",
+      "number": "01879-975410",
+      "email": "mahadihasannayem9@gmail.com"
     },
-     { 
-    "id": " ",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/jakir.jpg",
-    "name":"Jakir Hossain ",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/profile.php?id=100077713316568",
-    "number": "01765-724729",
-    "email" : "not available"
+    {
+      "id": " ",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/jakir.jpg",
+      "name": "Jakir Hossain ",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/profile.php?id=100077713316568",
+      "number": "01765-724729",
+      "email": "not available"
     },
-     { 
-    "id": " ",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image//Happy.jpg",
-    "name":"Happy  ",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/profile.php?id=100022287095124",
-    "number": "not available ",
-    "email" : "not available"
+    {
+      "id": " ",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image//Happy.jpg",
+      "name": "Happy  ",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/profile.php?id=100022287095124",
+      "number": "not available ",
+      "email": "not available"
     },
-     { 
-    "id": " ",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/bushra.jpg",
-    "name":"Bushra Momtaj Maria",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/nilufa.yasmin.14661",
-    "number": "01723-390736",
-    "email" : "not available"
+    {
+      "id": " ",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/bushra.jpg",
+      "name": "Bushra Momtaj Maria",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/nilufa.yasmin.14661",
+      "number": "01723-390736",
+      "email": "not available"
     },
-     { 
-    "id": " ",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/siam.jpg",
-    "name":"Saim Siddiki",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/saim.siddiki.7",
-    "number": "01909-005661",
-    "email" : "not available"
+    {
+      "id": " ",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/siam.jpg",
+      "name": "Saim Siddiki",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/saim.siddiki.7",
+      "number": "01909-005661",
+      "email": "not available"
     },
-     { 
-    "id": " ",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/arnaf.jpg",
-    "name":"Arnaf Shahariar",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/arnaf.shahariar",
-    "number": "01880-252102",
-    "email" : "not available"
+    {
+      "id": " ",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/arnaf.jpg",
+      "name": "Arnaf Shahariar",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/arnaf.shahariar",
+      "number": "01880-252102",
+      "email": "not available"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/shafin.jpg",
-    "name":"Md. Fahim Ferdous Shafin",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/fahim.shafin.9",
-    "number": "01575-212875",
-    "email" : "fahimshafin742@gmail.com"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/shafin.jpg",
+      "name": "Md. Fahim Ferdous Shafin",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/fahim.shafin.9",
+      "number": "01575-212875",
+      "email": "fahimshafin742@gmail.com"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/tawfiq.jpg",
-    "name":"Towfik Anam",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/towfik.anam",
-    "number": "01733-206774",
-    "email" : "not available"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/tawfiq.jpg",
+      "name": "Towfik Anam",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/towfik.anam",
+      "number": "01733-206774",
+      "email": "not available"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/ZarinTasnimTabassum.jpg",
-    "name":"Zarin Tasnim Tabassum",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/zarinsubha.saba?mibextid=ZbWKwL",
-    "number": "not available",
-    "email" : "Ztasnim719@gmail.com"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/ZarinTasnimTabassum.jpg",
+      "name": "Zarin Tasnim Tabassum",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/zarinsubha.saba?mibextid=ZbWKwL",
+      "number": "not available",
+      "email": "Ztasnim719@gmail.com"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/SijanAhmedPrince.jpg",
-    "name":"Sijan Ahmed Prince",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/sijanahmed.prince.12?mibextid=ZbWKwL",
-    "number": "01721-516090",
-    "email" : "sijanahmedprince@gmail.com"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/SijanAhmedPrince.jpg",
+      "name": "Sijan Ahmed Prince",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/sijanahmed.prince.12?mibextid=ZbWKwL",
+      "number": "01721-516090",
+      "email": "sijanahmedprince@gmail.com"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/MD.SHEFATULLAH.jpg",
-    "name":"MD.SIFATULLAH",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/SIFAT306?mibextid=ZbWKwL",
-    "number": "01714-934267",
-    "email" : "sifatullah8282@gmail"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/MD.SHEFATULLAH.jpg",
+      "name": "MD.SIFATULLAH",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/SIFAT306?mibextid=ZbWKwL",
+      "number": "01714-934267",
+      "email": "sifatullah8282@gmail"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/Rafiqulislam.jpg",
-    "name":"MD. RAFIQUL ISLAM",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/profile.php?id=100035419353246&mibextid=ZbWKwL",
-    "number": "01304-625960",
-    "email" : "ri7967912@gmail.com"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/Rafiqulislam.jpg",
+      "name": "MD. RAFIQUL ISLAM",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/profile.php?id=100035419353246&mibextid=ZbWKwL",
+      "number": "01304-625960",
+      "email": "ri7967912@gmail.com"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/Rakib2Ahmed.jpg",
-    "name":"Rakib Ahmed",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/rakib.prodhan.399?mibextid=ZbWKwL",
-    "number": "01834-896652",
-    "email" : "sprakib6110@gmail.com"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/Rakib2Ahmed.jpg",
+      "name": "Rakib Ahmed",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/rakib.prodhan.399?mibextid=ZbWKwL",
+      "number": "01834-896652",
+      "email": "sprakib6110@gmail.com"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/SabinaYasmin.jpg",
-    "name":"Sabina Yasmin",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/profile.php?id=100094586830660&mibextid=ZbWKwL",
-    "number": "not available ",
-    "email" : "sabinahossainsabinahossain@gmail.com"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/SabinaYasmin.jpg",
+      "name": "Sabina Yasmin",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/profile.php?id=100094586830660&mibextid=ZbWKwL",
+      "number": "not available ",
+      "email": "sabinahossainsabinahossain@gmail.com"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/AburayhanIslam.jpg",
-    "name":"MD.ABU RAYHAN SARKAR",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/shaku.rayhan",
-    "number": "01719-015997",
-    "email" : "aburayhanislam660@gmail.com"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/AburayhanIslam.jpg",
+      "name": "MD.ABU RAYHAN SARKAR",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/shaku.rayhan",
+      "number": "01719-015997",
+      "email": "aburayhanislam660@gmail.com"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/Isratjahan.jpg",
-    "name":"Israt jahan",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/profile.php?id=100028268822592&mibextid=ZbWKwL",
-    "number": "not available ",
-    "email" : "suchi.israt.2004@gmail.com"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/Isratjahan.jpg",
+      "name": "Israt jahan",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/profile.php?id=100028268822592&mibextid=ZbWKwL",
+      "number": "not available ",
+      "email": "suchi.israt.2004@gmail.com"
     },
-     { 
-    "id": "",
-    "img": "https://ihcstudentimgip.netlify.app/student%20image/billal.jpg",
-    "name":"Billal Hossain",
-    "session":"2022 - 2023",
-    "Batch":"18th",
-    "facebook":"https://www.facebook.com/profile.php?id=100048055011010",
-    "number": "01860-072957 ",
-    "email" : "billalhossain8072@gmail.com"
+    {
+      "id": "",
+      "img": "https://ihcstudentimgip.netlify.app/student%20image/billal.jpg",
+      "name": "Billal Hossain",
+      "session": "2022 - 2023",
+      "Batch": "18th",
+      "facebook": "https://www.facebook.com/profile.php?id=100048055011010",
+      "number": "01860-072957 ",
+      "email": "billalhossain8072@gmail.com"
     }
+  ],
 
-    ],
-
-    "video":[
-        {
-            "link":"https://www.youtube.com/embed/Xh8e672nr9w?si=ADE9jTDtLJn5ZYmn",
-            "headline":"Fast day in our university life  IHC 18th"
-
-        },
-        {
-            "link":"https://www.youtube.com/embed/JxjjAis4y90?si=prqjW7WnJdB7yjbL",
-            "headline":"Boys dance ( Rakibul, Atik, Zihad, Tawfiq)"
-
-        },
-        {
-            "link":"https://drive.google.com/file/d/1IR3A7A0kN0e-vDVmo3OiRcc3CKsOQHf8/preview",
-            "headline":"Department Tour IHC 18th 2024🔥"
-        },
-        {
-            "link":"https://www.youtube.com/embed/qxZ0DCayOPs?si=XpRx9Uv5uZABgkdf",
-            "headline":"flshmoob 2023"
-        },
-        {
-            "link":"https://www.youtube.com/embed/oGzOgrLx4b8?si=tdnSdgK7tPqpKTxa",
-            "headline":"sorotutshob 2023"
-        },
-        {
-            "link":"https://www.youtube.com/embed/hz0dHujyiiA?si=TMA5EkS2uaUpJwTm",
-            "headline":"sorotutshob 2023"
-        },
-        {
-            "link":"https://www.youtube.com/embed/W5jrg0UGr3A?si=4W6EE9ukJtFc4iV1",
-            "headline":"sorotutshob 2023"
-        },
-        {
-            "link":"https://www.youtube.com/embed/ZORm1KcTe5M?si=J4GglfyYH7c6mGbj",
-            "headline":"sorotutshob 2023"
-        }
-    ],
-
-    "Photos":[
-        {
-
-
-        },
-        {
-
-        }
-    ]
-
-
-
-
-
+  "video": [
+    {
+      "link": "https://www.youtube.com/embed/Xh8e672nr9w?si=ADE9jTDtLJn5ZYmn",
+      "headline": "Fast day in our university life  IHC 18th"
+    },
+    {
+      "link": "https://www.youtube.com/embed/JxjjAis4y90?si=prqjW7WnJdB7yjbL",
+      "headline": "Boys dance ( Rakibul, Atik, Zihad, Tawfiq)"
+    },
+    {
+      "link": "https://drive.google.com/file/d/1IR3A7A0kN0e-vDVmo3OiRcc3CKsOQHf8/preview",
+      "headline": "Department Tour IHC 18th 2024🔥"
+    },
+    {
+      "link": "https://www.youtube.com/embed/qxZ0DCayOPs?si=XpRx9Uv5uZABgkdf",
+      "headline": "flshmoob 2023"
+    },
+    {
+      "link": "https://www.youtube.com/embed/oGzOgrLx4b8?si=tdnSdgK7tPqpKTxa",
+      "headline": "sorotutshob 2023"
+    },
+    {
+      "link": "https://www.youtube.com/embed/hz0dHujyiiA?si=TMA5EkS2uaUpJwTm",
+      "headline": "sorotutshob 2023"
+    },
+    {
+      "link": "https://www.youtube.com/embed/W5jrg0UGr3A?si=4W6EE9ukJtFc4iV1",
+      "headline": "sorotutshob 2023"
+    },
+    {
+      "link": "https://www.youtube.com/embed/ZORm1KcTe5M?si=J4GglfyYH7c6mGbj",
+      "headline": "sorotutshob 2023"
     }
+  ],
+
+  "Photos": [
+    {
+      "img": "https://img.freepik.com/free-photo/islamic-style-lantern-design-ramadan-celebration-with-copy-space_23-2151183953.jpg?size=626&ext=jpg ",
+      "title": "Ramadan",
+      "discription": "this is a check "
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/islamic-style-lantern-design-ramadan-celebration-with-copy-space_23-2151183953.jpg?size=626&ext=jpg ",
+      "title": "Ramadan",
+      "discription": "this is a check "
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/islamic-style-lantern-design-ramadan-celebration-with-copy-space_23-2151183953.jpg?size=626&ext=jpg ",
+      "title": "Ramadan",
+      "discription": "this is a check "
+    }
+    
+  ]
+}
